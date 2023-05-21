@@ -43,20 +43,6 @@
 
     <link rel="stylesheet" type="text/css" href="styles/style.css">
     
-    
-    
-   html { 
-  background: url(./images/website-background.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  }
-    
-    
-    
-    
-    
     <title>Weather App</title>
   </head>
   <body>
