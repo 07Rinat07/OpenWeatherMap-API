@@ -4,16 +4,4 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
-### About me
-- 🌱 Now I'm studying **English, as well as programming**. 
-- 📝Passionate about modern technology
-- 📄 Link to my portfolio ([cv-link](https://myportfolio.a07.kz/))
-- 🌍 I speak English
-
-
-- 🔭 I’m currently working on [project](https://myportfolio.a07.kz/)
-
-- 👨‍💻 All of my projects are available at [https://myportfolio.a07.kz/](https://myportfolio.a07.kz/)
-
-- 📫 How to reach me **ura07srr@gmail.com**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=4000&pause=7&color=0C2AF7&center=true&vCenter=true&multiline=true&width=1400&height=220&lines=As+part+of+the+practical+exercises%2C;a+project+was+made+on+the+weather+forecast+API." alt="Typing SVG" /></a>
